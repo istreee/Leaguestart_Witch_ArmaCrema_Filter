@@ -1,5 +1,10 @@
 # How To Use
-Download LeagueStartWitchDD.filter and filtersounds.zip. Put the .filter file in Documents > My Games > Path of Exile
+Download LeagueStartWitchDD.filter and filtersounds.zip. 
+
+
+Put the .filter file in Documents > My Games > Path of Exile
+
+Alternatively you can also follow LeagueStartWitchDD on my public filters list https://www.pathofexile.com/account/view-profile/GucciPradas/item-filters
 
 Extract the sounds from filersounds.zip and place them in the same file
 

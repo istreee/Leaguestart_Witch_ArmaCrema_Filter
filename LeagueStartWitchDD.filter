@@ -163,6 +163,16 @@
 
 #tink#
 Show
+	BaseType "Eternal Orb" "Mirror of Kalandra" "Fishing Rod" "Albino Rhoa Feather" "Mirror Shard" "Imprint" "Awakener's Orb" "Orb of Dominance"
+	SetBackgroundColor 250 250 250
+	SetBorderColor 0 0 0
+	SetTextColor 250 0 0
+	SetFontSize 45
+	PlayAlertSound 6 250
+	MinimapIcon 0 White Diamond
+	PlayEffect White
+	DisableDropSound
+Show
 	Class Currency
 	BaseType "Exalted Orb" "Divine Orb" 
 	SetBorderColor 250 0 125

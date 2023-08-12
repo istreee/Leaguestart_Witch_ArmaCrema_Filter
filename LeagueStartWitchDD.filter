@@ -524,7 +524,7 @@ Show
 	Class Currency
 	SetTextColor 100 150 200
 	SetBorderColor 100 150 200
-	AreaLevel < 23
+	AreaLevel < 45
 	SetFontSize 45
 	CustomAlertSound "augment.mp3" 300
 	MinimapIcon 0 Blue Circle
@@ -907,9 +907,7 @@ Show
 # # # #    C A S T E R    # # # #
 
 
-Hide
-	Class "Shield"
-	Rarity Normal
+
 Show
 	BaseType "Quicksilver Flask" 
 	SetTextColor 250 0 125
@@ -2148,7 +2146,7 @@ Show
 	Height = 3
 #	SetBackgroundColor 127 0 255
 	SetBorderColor 127 0 255
-	SetFontSize 30
+	SetFontSize 45
 Show
 	AreaLevel <= 33
 	Rarity Rare
@@ -2207,10 +2205,18 @@ Show
 	AreaLevel <= 99
 	Rarity Rare
 	Width <= 2
+	Height = 1
+#	SetBackgroundColor 127 0 255
+	SetBorderColor 127 0 255
+	SetFontSize 45
+Show
+	AreaLevel <= 99
+	Rarity Rare
+	Width <= 2
 	Height <= 2
 #	SetBackgroundColor 127 0 255
 	SetBorderColor 127 0 255
-	SetFontSize 30
+	SetFontSize 45
 Show
 	AreaLevel <= 99
 	Rarity Rare
@@ -2218,7 +2224,7 @@ Show
 	Height = 3
 #	SetBackgroundColor 40 40 40
 	SetBorderColor 127 0 255
-	SetFontSize 30	
+	SetFontSize 45	
 Show
 	AreaLevel <= 99
 	Rarity Rare 
@@ -2407,6 +2413,7 @@ Show
 
 
 Hide
+	Class "Amulets" "Belts" "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Flask" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rings" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
 	Rarity Normal
 	Width = 2
 	Height = 4
@@ -2423,6 +2430,7 @@ Hide
 	
 	
 Hide
+	Class "Amulets" "Belts" "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Flask" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rings" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
 	Rarity Normal
 	AreaLevel >= 2
 	ItemLevel >= 2
@@ -2432,14 +2440,17 @@ Hide
 
 	
 Hide
+	Class "Amulets" "Belts" "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Flask" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rings" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
 	Rarity Magic
 	AreaLevel > 14
 	Width = 2
 	Height = 4
 Hide
+	Class "Amulets" "Belts" "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Flask" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rings" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
 	Rarity Normal
 	AreaLevel > 22
 Hide
+	Class "Amulets" "Belts" "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Flask" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rings" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
 	Rarity Magic
 	AreaLevel > 32
 Hide

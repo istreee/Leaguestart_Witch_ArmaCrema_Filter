@@ -239,7 +239,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "alch.mp3" 300
+	CustomAlertSound "gucci_sounds/alch.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Orb of Alchemy"
@@ -261,7 +261,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "binding.mp3" 300
+	CustomAlertSound "gucci_sounds/binding.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Orb of Binding"
@@ -283,7 +283,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "regret.mp3" 300
+	CustomAlertSound "gucci_sounds/regret.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Orb of Regret" 
@@ -305,7 +305,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "regal.mp3" 300
+	CustomAlertSound "gucci_sounds/regal.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Regal Orb"
@@ -327,7 +327,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "chaos.mp3" 300
+	CustomAlertSound "gucci_sounds/chaos.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Chaos Orb"
@@ -351,7 +351,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "fusing.mp3" 300
+	CustomAlertSound "gucci_sounds/fusing.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Orb of Fusing"
@@ -375,7 +375,7 @@ Show
 	SetTextColor 250 0 125
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "chance.mp3" 300
+	CustomAlertSound "gucci_sounds/chance.mp3" 300
 	MinimapIcon 0 Red Circle
 Show
 	BaseType "Orb of Chance"
@@ -398,7 +398,7 @@ Show
 	SetBorderColor 0 180 130
 	SetTextColor 0 180 130
 	AreaLevel < 99
-	CustomAlertSound "alt.mp3" 300
+	CustomAlertSound "gucci_sounds/alt.mp3" 300
 	SetFontSize 45
 	MinimapIcon 0 Green Circle
 Show
@@ -423,7 +423,7 @@ Show
 	SetTextColor 0 180 130
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "trans.mp3" 300
+	CustomAlertSound "gucci_sounds/trans.mp3" 300
 	MinimapIcon 0 Green Circle
 Show
 	BaseType "Orb of Transmutation"
@@ -449,7 +449,7 @@ Show
 	SetBorderColor 100 150 200
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "scouring.mp3" 300
+	CustomAlertSound "gucci_sounds/scouring.mp3" 300
 	MinimapIcon 0 Green Circle
 Show
 	BaseType "Orb of Scouring"
@@ -473,7 +473,7 @@ Show
 	SetBorderColor 100 150 200
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "vaal.mp3" 300
+	CustomAlertSound "gucci_sounds/vaal.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	BaseType "Vaal Orb" 
@@ -497,7 +497,7 @@ Show
 	SetBorderColor 100 150 200
 	AreaLevel < 46
 	SetFontSize 45
-	CustomAlertSound "chrome.mp3" 300
+	CustomAlertSound "gucci_sounds/chrome.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Chromatic Orb"
@@ -507,7 +507,7 @@ Show
 	StackSize >= 2
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "chrome.mp3" 300
+	CustomAlertSound "gucci_sounds/chrome.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Chromatic Orb"
@@ -531,7 +531,7 @@ Show
 	SetBorderColor 100 150 200
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "jeweller.mp3" 300
+	CustomAlertSound "gucci_sounds/jeweller.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Jeweller's Orb"
@@ -541,7 +541,7 @@ Show
 	StackSize >= 2
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "jeweller.mp3" 300
+	CustomAlertSound "gucci_sounds/jeweller.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Jeweller's Orb"
@@ -565,7 +565,7 @@ Show
 	SetBorderColor 100 150 200
 	AreaLevel < 45
 	SetFontSize 45
-	CustomAlertSound "augment.mp3" 300
+	CustomAlertSound "gucci_sounds/augment.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Orb of Augmentation"
@@ -575,7 +575,7 @@ Show
 	StackSize >= 2
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "augment.mp3" 300
+	CustomAlertSound "gucci_sounds/augment.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Orb of Augmentation"
@@ -599,7 +599,7 @@ Show
 	SetBorderColor 100 150 200
 	AreaLevel < 46
 	SetFontSize 45
-	CustomAlertSound "portal.mp3" 300
+	CustomAlertSound "gucci_sounds/portal.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Portal Scroll"
@@ -609,7 +609,7 @@ Show
 	StackSize >= 2
 	AreaLevel < 99
 	SetFontSize 45
-	CustomAlertSound "portal.mp3" 300
+	CustomAlertSound "gucci_sounds/portal.mp3" 300
 	MinimapIcon 0 Blue Circle
 Show
 	BaseType "Portal Scroll"
@@ -633,7 +633,7 @@ Show
 	SetBorderColor 170 158 130
 	SetTextColor 170 158 130
 	SetFontSize 45
-	CustomAlertSound "whetstone.mp3" 300
+	CustomAlertSound "gucci_sounds/whetstone.mp3" 300
 Show
 	BaseType "Blacksmith's Whetstone" 
 	StackSize >= 2
@@ -642,7 +642,7 @@ Show
 	SetBorderColor 170 158 130
 	SetTextColor 170 158 130
 	SetFontSize 45
-	CustomAlertSound "whetstone.mp3" 300
+	CustomAlertSound "gucci_sounds/whetstone.mp3" 300
 Show
 	BaseType "Blacksmith's Whetstone" 
 	Class Currency
@@ -665,7 +665,7 @@ Show
 	SetBorderColor 170 158 130
 	SetTextColor 170 158 130
 	SetFontSize 45
-	CustomAlertSound "scrap.mp3" 300
+	CustomAlertSound "gucci_sounds/scrap.mp3" 300
 Show
 	BaseType "Armourer's Scrap"
 	StackSize >= 2
@@ -674,7 +674,7 @@ Show
 	SetBorderColor 170 158 130
 	SetTextColor 170 158 130
 	SetFontSize 45
-	CustomAlertSound "scrap.mp3" 300
+	CustomAlertSound "gucci_sounds/scrap.mp3" 300
 Show
 	BaseType "Armourer's Scrap"
 	AreaLevel < 99
@@ -697,7 +697,7 @@ Show
 	SetFontSize 45
 	SetBorderColor 170 158 130
 	SetTextColor 170 158 130
-	CustomAlertSound "wisdom.mp3" 300
+	CustomAlertSound "gucci_sounds/wisdom.mp3" 300
 Show
 	BaseType "Scroll of Wisdom"
 	Class Currency
@@ -706,7 +706,7 @@ Show
 	SetFontSize 45
 	SetBorderColor 170 158 130
 	SetTextColor 170 158 130
-	CustomAlertSound "wisdom.mp3" 300
+	CustomAlertSound "gucci_sounds/wisdom.mp3" 300
 Show
 	BaseType "Scroll of Wisdom"
 	Class Currency
@@ -730,7 +730,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 75 75
 	SetFontSize 45
-	CustomAlertSound "essence.mp3" 
+	CustomAlertSound "gucci_sounds/essence.mp3" 
 	MinimapIcon 2 Green Circle
 
 #marker
@@ -754,7 +754,7 @@ Show
 #	SetTextColor 0 250 250
 #	SetBackgroundColor 250 0 0
 #	SetFontSize 45
-#	CustomAlertSound "LifeFlask.mp3" 300
+#	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 #	MinimapIcon 2 Red Kite
 Show
 	BaseType "Medium Life Flask"
@@ -763,7 +763,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 Show
 	BaseType "Large Life Flask"
@@ -772,7 +772,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 Show
 	BaseType "Greater Life Flask"
@@ -781,7 +781,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 Show
 	BaseType "Grand Life Flask"
@@ -790,7 +790,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 Show
 	BaseType "Giant Life Flask"
@@ -799,7 +799,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 Show
 	BaseType "Colossal Life Flask"
@@ -808,7 +808,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 #Show
 #	BaseType "Sacred Life Flask"
@@ -817,7 +817,7 @@ Show
 #	SetTextColor 0 250 250
 #	SetBackgroundColor 250 0 0
 #	SetFontSize 45
-#	CustomAlertSound "LifeFlask.mp3" 300
+#	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 #	MinimapIcon 2 Red Kite
 Show
 	BaseType "Hallowed Life Flask"
@@ -826,7 +826,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 Show
 	BaseType "Divine Life Flask"
@@ -835,7 +835,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 250 0 0
 	SetFontSize 45
-	CustomAlertSound "LifeFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/LifeFlask.mp3" 300
 	MinimapIcon 2 Red Kite
 
 Show
@@ -845,7 +845,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite	
 Show
 	BaseType "Large Mana Flask"
@@ -854,7 +854,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite
 Show
 	BaseType "Greater Mana Flask"
@@ -863,7 +863,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite
 Show
 	BaseType "Grand Mana Flask"
@@ -872,7 +872,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite
 Show
 	BaseType "Giant Mana Flask"
@@ -881,7 +881,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite	
 Show
 	BaseType "Colossal Mana Flask"
@@ -890,7 +890,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite	
 Show
 	BaseType "Sacred Mana Flask"
@@ -899,7 +899,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite	
 Show
 	BaseType "Hallowed Mana Flask"
@@ -908,7 +908,7 @@ Show
 	SetTextColor 0 250 250
 	SetBackgroundColor 0 0 250
 	SetFontSize 45
-	CustomAlertSound "ManaFlask.mp3" 300
+	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 	MinimapIcon 2 Blue Kite	
 #Show
 #	BaseType "Sanctified Mana Flask"
@@ -917,7 +917,7 @@ Show
 #	SetTextColor 0 250 250
 #	SetBackgroundColor 0 0 250
 #	SetFontSize 45
-#	CustomAlertSound "ManaFlask.mp3" 300
+#	CustomAlertSound "gucci_sounds/ManaFlask.mp3" 300
 #	MinimapIcon 2 Blue Kite	
 
 	
@@ -943,14 +943,14 @@ Show
 	BaseType "Quicksilver Flask" 
 	SetTextColor 250 0 125
 	ItemLevel <= 67
-	CustomAlertSound "quicksilver.mp3" 300
+	CustomAlertSound "gucci_sounds/quicksilver.mp3" 300
 	SetFontSize 45
 	MinimapIcon 2 Red Triangle	
 Show
 	BaseType "Silver Flask"
 	SetTextColor 250 0 125
 	ItemLevel <= 67
-	CustomAlertSound "silverflask.mp3" 300
+	CustomAlertSound "gucci_sounds/silverflask.mp3" 300
 	SetFontSize 45
 	MinimapIcon 2 Red Triangle
 Show
@@ -961,7 +961,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "goathorn.mp3" 300
+	CustomAlertSound "gucci_sounds/goathorn.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	BaseType "Goat's Horn"
@@ -971,7 +971,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "magicgoat.mp3" 300
+	CustomAlertSound "gucci_sounds/magicgoat.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	BaseType "Goat's Horn"
@@ -981,7 +981,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "raregoat.mp3" 300
+	CustomAlertSound "gucci_sounds/raregoat.mp3" 300
 	MinimapIcon 2 Yellow Circle
 
 Show
@@ -992,7 +992,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "goathorn.mp3" 300
+	CustomAlertSound "gucci_sounds/goathorn.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	BaseType "Faun's Horn"
@@ -1002,7 +1002,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "magicgoat.mp3" 300
+	CustomAlertSound "gucci_sounds/magicgoat.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	BaseType "Faun's Horn"
@@ -1012,7 +1012,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "raregoat.mp3" 300
+	CustomAlertSound "gucci_sounds/raregoat.mp3" 300
 	MinimapIcon 2 Yellow Circle
 
 
@@ -1027,7 +1027,7 @@ Show
 	SetBorderColor 75 75 250
 	SetBackgroundColor 0 0 75
 	SetFontSize 45
-#	CustomAlertSound "bb.mp3" 300 
+#	CustomAlertSound "gucci_sounds/bb.mp3" 300 
 #	MinimapIcon 2 Yellow Triangle 
 #Show
 #	Class "Gloves" "Helm" "Boots" "Wand"
@@ -1038,7 +1038,7 @@ Show
 #	SetBorderColor 75 75 250
 #	SetBackgroundColor 0 0 75
 #	SetFontSize 45
-#	CustomAlertSound "bg.mp3" 300
+#	CustomAlertSound "gucci_sounds/bg.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 
 #### 3 LINK #### (Sound + Icon till end of A2, hidden past a3)
@@ -1053,7 +1053,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "glovergb.mp3" 300
+	CustomAlertSound "gucci_sounds/glovergb.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Helm" 
@@ -1064,7 +1064,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "helmrgb.mp3" 300
+	CustomAlertSound "gucci_sounds/helmrgb.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Boots" 
@@ -1075,7 +1075,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "bootsrgb.mp3" 300
+	CustomAlertSound "gucci_sounds/bootsrgb.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Body Armour"
@@ -1086,7 +1086,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "chestrgb.mp3" 300
+	CustomAlertSound "gucci_sounds/chestrgb.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 	
 	
@@ -1103,7 +1103,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "glove3b.mp3" 300
+	CustomAlertSound "gucci_sounds/glove3b.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Helm" 
@@ -1114,7 +1114,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "helm3b.mp3" 300
+	CustomAlertSound "gucci_sounds/helm3b.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Boots" 
@@ -1125,7 +1125,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "boots3b.mp3" 300
+	CustomAlertSound "gucci_sounds/boots3b.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Body Armour"
@@ -1136,7 +1136,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "chest3b.mp3" 300
+	CustomAlertSound "gucci_sounds/chest3b.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 #Show
 #	Class "Wand"
@@ -1148,7 +1148,7 @@ Show
 #	SetBorderColor 0 200 0
 #	SetBackgroundColor 0 35 0
 #	SetFontSize 45
-#	CustomAlertSound "wand3b.mp3" 300
+#	CustomAlertSound "gucci_sounds/wand3b.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Shield"
@@ -1160,7 +1160,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "shield3b.mp3" 300
+	CustomAlertSound "gucci_sounds/shield3b.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 
 
@@ -1174,7 +1174,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "shield2b1g.mp3" 300
+	CustomAlertSound "gucci_sounds/shield2b1g.mp3" 300
 	MinimapIcon 2 Yellow Triangle	
 #Show
 #	Class "Wand"
@@ -1185,7 +1185,7 @@ Show
 #	SetBorderColor 0 200 0
 #	SetBackgroundColor 0 35 0
 #	SetFontSize 45
-#	CustomAlertSound "wand2b1g.mp3" 300
+#	CustomAlertSound "gucci_sounds/wand2b1g.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Gloves" 
@@ -1196,7 +1196,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "glove2b1g.mp3" 300
+	CustomAlertSound "gucci_sounds/glove2b1g.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Helm"
@@ -1207,7 +1207,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "helm2b1g.mp3" 300
+	CustomAlertSound "gucci_sounds/helm2b1g.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Boots"
@@ -1218,7 +1218,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "boots2b1g.mp3" 300
+	CustomAlertSound "gucci_sounds/boots2b1g.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Body Armour" 
@@ -1229,7 +1229,7 @@ Show
 	SetBorderColor 0 200 0
 #	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "chest2b1g.mp3" 300
+	CustomAlertSound "gucci_sounds/chest2b1g.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 	
 	
@@ -1244,7 +1244,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "shield2b1r.mp3" 300
+	CustomAlertSound "gucci_sounds/shield2b1r.mp3" 300
 	MinimapIcon 2 Yellow Triangle	
 #Show
 #	Class "Wand"
@@ -1256,7 +1256,7 @@ Show
 #	SetBorderColor 0 200 0
 #	SetBackgroundColor 0 35 0
 #	SetFontSize 45
-#	CustomAlertSound "wand2b1r.mp3" 300
+#	CustomAlertSound "gucci_sounds/wand2b1r.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 
 	
@@ -1269,7 +1269,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "glove2b1r.mp3" 300
+	CustomAlertSound "gucci_sounds/glove2b1r.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Helm"
@@ -1280,7 +1280,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "helm2b1r.mp3" 300
+	CustomAlertSound "gucci_sounds/helm2b1r.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Body Armour"
@@ -1291,7 +1291,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "chest2b1r.mp3" 300
+	CustomAlertSound "gucci_sounds/chest2b1r.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 Show
 	Class "boots"
@@ -1302,7 +1302,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-	CustomAlertSound "boots2b1r.mp3" 300
+	CustomAlertSound "gucci_sounds/boots2b1r.mp3" 300
 	MinimapIcon 2 Yellow Triangle
 
 Show
@@ -1314,7 +1314,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-#	CustomAlertSound "bbb.mp3" 300
+#	CustomAlertSound "gucci_sounds/bbb.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour" "Wand"
@@ -1325,7 +1325,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-#	CustomAlertSound "bbg.mp3" 300
+#	CustomAlertSound "gucci_sounds/bbg.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour" "Wand"
@@ -1336,7 +1336,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-#	CustomAlertSound "bbr.mp3" 300
+#	CustomAlertSound "gucci_sounds/bbr.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour" "Wand"
@@ -1347,7 +1347,7 @@ Show
 	SetBorderColor 0 200 0
 	SetBackgroundColor 0 35 0
 	SetFontSize 45
-#	CustomAlertSound "bbr.mp3" 300
+#	CustomAlertSound "gucci_sounds/bbr.mp3" 300
 #	MinimapIcon 2 Yellow Triangle
 
 
@@ -1366,7 +1366,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "bbbb.mp3" 300
+	CustomAlertSound "gucci_sounds/bbbb.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour"
@@ -1378,7 +1378,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "bbbg.mp3" 300
+	CustomAlertSound "gucci_sounds/bbbg.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour"
@@ -1390,7 +1390,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "bbbr.mp3" 300
+	CustomAlertSound "gucci_sounds/bbbr.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour"
@@ -1402,7 +1402,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "bbgg.mp3" 300
+	CustomAlertSound "gucci_sounds/bbgg.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour"
@@ -1414,7 +1414,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "rgbg.mp3" 300
+	CustomAlertSound "gucci_sounds/rgbg.mp3" 300
 	MinimapIcon 2 Red Hexagon
 
 
@@ -1433,7 +1433,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "fourlinkgloves.mp3" 300
+	CustomAlertSound "gucci_sounds/fourlinkgloves.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Helm"
@@ -1447,7 +1447,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "fourlinkhelmet.mp3" 300
+	CustomAlertSound "gucci_sounds/fourlinkhelmet.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Boots"
@@ -1461,7 +1461,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "fourlinkboots.mp3" 300
+	CustomAlertSound "gucci_sounds/fourlinkboots.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Body Armour"
@@ -1475,7 +1475,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "fourlinkchest.mp3" 300
+	CustomAlertSound "gucci_sounds/fourlinkchest.mp3" 300
 	MinimapIcon 2 Red Hexagon
 Show
 	Class "Gloves" "Helm" "Boots" "Body Armour"
@@ -1486,7 +1486,7 @@ Show
 	SetBorderColor 0 250 250
 	SetBackgroundColor 0 65 65
 	SetFontSize 45
-	CustomAlertSound "fourlink.mp3" 300
+	CustomAlertSound "gucci_sounds/fourlink.mp3" 300
 	MinimapIcon 2 Green Hexagon
 
 #### Boots ####
@@ -1499,7 +1499,7 @@ Show
 	SetBackgroundColor 50 50 255
 	AreaLevel < 33
 	SetFontSize 45
-	CustomAlertSound "magicboots.mp3" 300
+	CustomAlertSound "gucci_sounds/magicboots.mp3" 300
 Show
 	Class "Boots"
 	AreaLevel <= 45
@@ -1509,7 +1509,7 @@ Show
 	SetBackgroundColor 225 225 110
 	AreaLevel < 33
 	SetFontSize 45
-	CustomAlertSound "rareboots.mp3" 300
+	CustomAlertSound "gucci_sounds/rareboots.mp3" 300
 
 #This block below highlights 3/4 socket items with 2-3 links that are useable. Edit SocketGroup colors according to your needs. Must ALWAYS be at bottom
 Show
@@ -1557,7 +1557,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "jade.mp3" 300
+	CustomAlertSound "gucci_sounds/jade.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	Class "Amulet"
@@ -1568,7 +1568,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "jade.mp3" 300
+	CustomAlertSound "gucci_sounds/jade.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	Class "Amulet"
@@ -1579,7 +1579,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "jade.mp3" 300
+	CustomAlertSound "gucci_sounds/jade.mp3" 300
 	MinimapIcon 2 Yellow Circle
 	
 Show
@@ -1591,7 +1591,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "leatherbelt.mp3" 300
+	CustomAlertSound "gucci_sounds/leatherbelt.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	Class "Belt"
@@ -1602,7 +1602,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "leatherbelt.mp3" 300
+	CustomAlertSound "gucci_sounds/leatherbelt.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	Class "Belt"
@@ -1613,7 +1613,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "magicleather.mp3" 300
+	CustomAlertSound "gucci_sounds/magicleather.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	Class "Belt"
@@ -1624,7 +1624,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "rareleather.mp3" 300
+	CustomAlertSound "gucci_sounds/rareleather.mp3" 300
 	MinimapIcon 2 Yellow Circle
 	
 	
@@ -1638,7 +1638,7 @@ Show
 #	SetBorderColor 255 0 0
 #	SetBackgroundColor 255 255 255
 #	SetFontSize 45
-#	CustomAlertSound "chainbelt.mp3" 300
+#	CustomAlertSound "gucci_sounds/chainbelt.mp3" 300
 #	MinimapIcon 2 White Circle
 #Show
 #	Class "Belt"
@@ -1649,7 +1649,7 @@ Show
 #	SetBorderColor 255 0 0
 #	SetBackgroundColor 255 255 255
 #	SetFontSize 45
-#	CustomAlertSound "chainbelt.mp3" 300
+#	CustomAlertSound "gucci_sounds/chainbelt.mp3" 300
 #	MinimapIcon 2 White Circle
 #Show
 #	Class "Belt"
@@ -1660,7 +1660,7 @@ Show
 #	SetBorderColor 255 0 0
 #	SetBackgroundColor 50 50 255
 #	SetFontSize 45
-#	CustomAlertSound "chainbelt.mp3" 300
+#	CustomAlertSound "gucci_sounds/chainbelt.mp3" 300
 #	MinimapIcon 2 Blue Circle
 #Show
 #	Class "Belt"
@@ -1671,7 +1671,7 @@ Show
 #	SetBorderColor 255 0 0
 #	SetBackgroundColor 225 225 110
 #	SetFontSize 45
-#	CustomAlertSound "rarechain.mp3" 300
+#	CustomAlertSound "gucci_sounds/rarechain.mp3" 300
 #	MinimapIcon 2 Yellow Circle
 
 Show
@@ -1683,7 +1683,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "heavybelt.mp3" 300
+	CustomAlertSound "gucci_sounds/heavybelt.mp3" 300
 	MinimapIcon 2 Brown Circle
 Show
 	Class "Belt"
@@ -1694,7 +1694,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-#	CustomAlertSound "heavybelt.mp3" 300
+#	CustomAlertSound "gucci_sounds/heavybelt.mp3" 300
 #	MinimapIcon 2 Brown Circle
 Show
 	Class "Belt"
@@ -1705,7 +1705,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-#	CustomAlertSound "heavybelt.mp3" 300
+#	CustomAlertSound "gucci_sounds/heavybelt.mp3" 300
 #	MinimapIcon 2 Brown Circle
 Show
 	Class "Belt"
@@ -1716,7 +1716,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "heavybelt.mp3" 300
+	CustomAlertSound "gucci_sounds/heavybelt.mp3" 300
 	MinimapIcon 2 Brown Circle
 Show
 	Class "Ring"
@@ -1727,7 +1727,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "ironring.mp3" 300
+	CustomAlertSound "gucci_sounds/ironring.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	Class "Ring"
@@ -1738,7 +1738,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "ironring.mp3" 300
+	CustomAlertSound "gucci_sounds/ironring.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	Class "Ring"
@@ -1749,7 +1749,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "ironring.mp3" 300
+	CustomAlertSound "gucci_sounds/ironring.mp3" 300
 	MinimapIcon 2 Yellow Circle
 Show
 	Class "Ring"
@@ -1760,7 +1760,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "coralring.mp3" 300
+	CustomAlertSound "gucci_sounds/coralring.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	Class "Ring"
@@ -1771,7 +1771,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "coralring.mp3" 300
+	CustomAlertSound "gucci_sounds/coralring.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	Class "Ring"
@@ -1782,7 +1782,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "coralring.mp3" 300
+	CustomAlertSound "gucci_sounds/coralring.mp3" 300
 	MinimapIcon 2 Yellow Circle
 
 Show
@@ -1794,7 +1794,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
-	CustomAlertSound "sapphirering.mp3" 300
+	CustomAlertSound "gucci_sounds/sapphirering.mp3" 300
 	MinimapIcon 2 White Circle
 Show
 	Class "Ring"
@@ -1805,7 +1805,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
-	CustomAlertSound "sapphirering.mp3" 300
+	CustomAlertSound "gucci_sounds/sapphirering.mp3" 300
 	MinimapIcon 2 Blue Circle
 Show
 	Class "Ring"
@@ -1816,7 +1816,7 @@ Show
 	SetBorderColor 255 0 0
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
-	CustomAlertSound "sapphirering.mp3" 300
+	CustomAlertSound "gucci_sounds/sapphirering.mp3" 300
 	MinimapIcon 2 Yellow Circle
 
 Show
@@ -1829,7 +1829,7 @@ Show
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
 	MinimapIcon 2 White Circle
-	CustomAlertSound "topazring.mp3" 300
+	CustomAlertSound "gucci_sounds/topazring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Topaz Ring"
@@ -1840,7 +1840,7 @@ Show
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
 	MinimapIcon 2 Blue Circle
-	CustomAlertSound "topazring.mp3" 300
+	CustomAlertSound "gucci_sounds/topazring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Topaz Ring"
@@ -1851,7 +1851,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "topazring.mp3" 300
+	CustomAlertSound "gucci_sounds/topazring.mp3" 300
 
 Show
 	Class "Ring"
@@ -1863,7 +1863,7 @@ Show
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
 	MinimapIcon 2 White Circle
-	CustomAlertSound "rubyring.mp3" 300
+	CustomAlertSound "gucci_sounds/rubyring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Ruby Ring"
@@ -1874,7 +1874,7 @@ Show
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
 	MinimapIcon 2 Blue Circle
-	CustomAlertSound "rubyring.mp3" 300
+	CustomAlertSound "gucci_sounds/rubyring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Ruby Ring"
@@ -1885,7 +1885,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "rubyring.mp3" 300
+	CustomAlertSound "gucci_sounds/rubyring.mp3" 300
 
 Show
 	Class "Ring"
@@ -1897,7 +1897,7 @@ Show
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
 	MinimapIcon 2 White Circle
-	CustomAlertSound "twostonering.mp3" 300
+	CustomAlertSound "gucci_sounds/twostonering.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Two-Stone Ring"
@@ -1908,7 +1908,7 @@ Show
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
 	MinimapIcon 2 Blue Circle
-	CustomAlertSound "twostonering.mp3" 300
+	CustomAlertSound "gucci_sounds/twostonering.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Two-Stone Ring"
@@ -1919,7 +1919,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "twostonering.mp3" 300
+	CustomAlertSound "gucci_sounds/twostonering.mp3" 300
 
 
 Show
@@ -1932,7 +1932,7 @@ Show
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
 	MinimapIcon 2 White Circle
-	CustomAlertSound "amethystring.mp3" 300
+	CustomAlertSound "gucci_sounds/amethystring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Amethyst Ring"
@@ -1943,7 +1943,7 @@ Show
 	SetBackgroundColor 255 255 255
 	SetFontSize 45
 	MinimapIcon 2 White Circle
-#	CustomAlertSound "amethystring.mp3" 300
+#	CustomAlertSound "gucci_sounds/amethystring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Amethyst Ring"
@@ -1954,7 +1954,7 @@ Show
 	SetBackgroundColor 50 50 255
 	SetFontSize 45
 	MinimapIcon 2 Blue Circle
-	CustomAlertSound "amethystring.mp3" 300
+	CustomAlertSound "gucci_sounds/amethystring.mp3" 300
 Show
 	Class "Ring"
 	BaseType "Amethyst Ring"
@@ -1965,7 +1965,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "amethystring.mp3" 300
+	CustomAlertSound "gucci_sounds/amethystring.mp3" 300
 
 Show
 	Class "Shield"
@@ -1977,7 +1977,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "rareshield.mp3" 300
+	CustomAlertSound "gucci_sounds/rareshield.mp3" 300
 Show
 	Class "Wand"
 	AreaLevel <= 99
@@ -1987,7 +1987,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "rarewand.mp3" 300
+	CustomAlertSound "gucci_sounds/rarewand.mp3" 300
 Show
 	Class "Sceptre" 
 	AreaLevel >= 23
@@ -1997,7 +1997,7 @@ Show
 	SetBackgroundColor 225 225 110
 	SetFontSize 45
 	MinimapIcon 2 Yellow Circle
-	CustomAlertSound "rareweapon.mp3" 300
+	CustomAlertSound "gucci_sounds/rareweapon.mp3" 300
 
 
 #Safety Blocks (Don't need to modify these for normal use)

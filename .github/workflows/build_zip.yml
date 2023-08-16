@@ -1,0 +1,19 @@
+name: Build Zip
+
+on: [push]
+
+jobs:
+  build_and_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Create zip
+        run: |
+          zip -r filter_and_sounds.zip . -x .github -x filtersounds.zip
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: filter-and-sounds
+          path: |
+            filter_and_sounds.zip

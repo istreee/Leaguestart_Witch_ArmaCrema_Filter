@@ -6,7 +6,8 @@ on:
       - "*"
 jobs:
   build:
-    permissions: write-all
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -20,24 +21,11 @@ jobs:
           name: filter-and-sounds
           path: |
             filter_and_sounds.zip
-
-      - name: Create Release
-        uses: actions/create-release@v1
-        id: create_release
-        with:
-          draft: false
-          prerelease: false
-          release_name: ${{ github.ref_name }}
-          tag_name: ${{ github.ref_name }}
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-  
-      - name: Upload filter and sounds
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: filter_and_sounds.zip
-          asset_name: filter_and_sounds.zip
-          asset_content_type: application/gzip
+  release: 
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ncipollo/release-action@v1
+      with:
+        omitBody: true
+        artifacts: "filter_and_sounds.zip"
+        makeLatest: true
